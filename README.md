@@ -1,3 +1,3 @@
 - Managed Stanford Cars' dataset containing more than 8k images of 196 types of cars with bounding box labels. 
 - Trained a 34-layered residual network on the dataset for classification using PyTorch.
-- Implemented grad-cam on the weakest class to best determine the next steps in improving the algorithm.
+- Used grad-cam on the weakest class to best determine the next steps in improving the algorithm.
